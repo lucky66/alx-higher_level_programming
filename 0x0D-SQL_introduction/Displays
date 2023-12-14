@@ -1,0 +1,6 @@
+ELECT COUNT(*)
+FROM `first_table`
+WHERE `id` = 89;
+ELECT COUNT(*)
+FROM `first_table`
+WHERE `id` = 89;
